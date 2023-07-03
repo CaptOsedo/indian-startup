@@ -1,9 +1,9 @@
 # indian-startup
 analysis of startups funding in india
 
-# refrence
+# reference
 kaggle.com
 
 
-i analysed the 
+I analysed the month with the highest entry
 
